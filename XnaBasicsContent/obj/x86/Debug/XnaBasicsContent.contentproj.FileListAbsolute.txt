@@ -1,0 +1,1 @@
+Z:\KINECT_PROJECT\Frogger_Projet\XnaBasicsContent\obj\x86\Debug\XnaBasicsContent.contentprojResolveAssemblyReference.cache
